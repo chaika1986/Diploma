@@ -4,6 +4,8 @@
 2. **Количество тест-кейсов**: 38
 3. **% успешных/не успешных**: 28 тестов (73%) прошло, 10 тестов (27%) упало
 ![image](https://user-images.githubusercontent.com/105911630/208447937-b5c2b805-5db4-4ace-b826-f0aa5b91ea29.png)
+![image](https://user-images.githubusercontent.com/105911630/208467748-fc2672c2-b5bd-45e7-a39d-6058c8927bf6.png)
+
 
 # Общие рекомендации
 
