@@ -21,7 +21,8 @@
 - 34 негативных (по 2 для каждого способа оплаты). 
 
 Соотношение успешных/неуспешных тестов: 34/4
-https://user-images.githubusercontent.com/105911630/208467748-fc2672c2-b5bd-45e7-a39d-6058c8927bf6.png
+![image](https://user-images.githubusercontent.com/105911630/209923410-6c2a485e-683b-48c3-a964-3d25ef36fc1b.png)
+
 
 **Общие рекомендации**
 
